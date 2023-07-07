@@ -1,3 +1,3 @@
 - 👋 Olá, eu sou a @gabernardelli
-- 🌱 Atualmente estou aprendendo HTML, CSS e PYTHON...
-- 📫 Vamos bater um papo? gabernardelli@outlook.com
+- 🌱 Atualmente estou aprendendo HTML, CSS e PYTHON ↻
+- 📫 Vamos bater um papo? gabernardelli@outlook.com 
